@@ -31,4 +31,4 @@ func main() {
 Contributions to GOPHE are welcome. Please feel free to submit issues and pull requests to the repository.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
