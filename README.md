@@ -29,6 +29,3 @@ func main() {
 ```
 ## Contributing
 Contributions to GOPHE are welcome. Please feel free to submit issues and pull requests to the repository.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
